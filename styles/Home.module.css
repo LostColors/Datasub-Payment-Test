@@ -1,0 +1,12 @@
+.container {
+  height: 100vh;
+  background-image: linear-gradient(45deg, #ace0f9 0%, #fff1eb 100%);
+  /* opacity: 0;
+  transition: all 3s ease-in-out; */
+}
+/* .container .hober {
+  opacity: 0;
+  transition: all 3s ease-in-out;
+} */
+
+/* box-shadow */
